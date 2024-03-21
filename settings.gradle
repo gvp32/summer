@@ -1,3 +1,4 @@
 rootProject.name = 'summer'
 include 'summer-common'
+include 'summer-provider'
 
